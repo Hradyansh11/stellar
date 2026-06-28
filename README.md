@@ -1,3 +1,5 @@
+NEXT_PUBLIC_CONTRACT_ADDRESS=CDD6UJ3G4JCDX7FODDPEXTYVGBFAIFFX4BCP4QRDHBYD27PSQOBDTDST
+
 # EventX — Event Ticketing on Stellar
 
 A production-ready decentralized event ticketing platform built on **Soroban Smart Contracts** (Rust) with a **Next.js** (TypeScript + Tailwind CSS) frontend, integrated with **Freighter Wallet** and **Stellar SDK**.
