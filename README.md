@@ -193,3 +193,8 @@ cd client && bun run build
 - **Blockchain**: Stellar SDK (`@stellar/stellar-sdk` v16)
 - **Build**: Cargo, Bun
 - **Network**: Stellar Testnet (configurable for Mainnet)
+
+
+---
+### Stellar Smart Contract Address
+`CDD6UJ3G4JCDX7FODDPEXTYVGBFAIFFX4BCP4QRDHBYD27PSQOBDTDST`
